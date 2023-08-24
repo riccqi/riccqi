@@ -5,6 +5,7 @@ I'm a Computer Science undergraduate studying at the National University of Sing
 I enjoy watching good animated movies and looping their soundtracks when I do work.
 
 Reach out to me to collab on fun projects or if you want a movie recommendation 😊
+
 riccqi [at] pm [dot] me
 
 <!--
