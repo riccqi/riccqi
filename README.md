@@ -2,7 +2,7 @@
 
 
 I'm a Computer Science undergraduate studying at the National University of Singapore. I've been dabbling with web and iOS development, and still exploring other things I like to do.
-I like watching movies (especially good animated ones), and listening to their awesome soundtracks.
+I enjoy watching good animated movies and looping their soundtracks when I do work.
 
 Reach out to me to collab on fun projects or if you want a movie recommendation 😊
 
