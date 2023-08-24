@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hey I'm Richard 👋
+
+
+I'm a Computer Science undergraduate studying at the National University of Singapore. I've been dabbling with web and iOS development, and still exploring other things I like to do.
+I like watching movies (especially good animated ones), and listening to their awesome soundtracks.
+
+Reach out to me to collab on fun projects or if you want a movie recommendation 😊
 
 <!--
 **riccqi/riccqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
